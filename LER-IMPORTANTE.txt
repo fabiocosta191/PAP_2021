@@ -1,0 +1,23 @@
+Olá!
+Em nome da S.R.B.E estamos a disponibilizar o código fonte juntamente com a base de dados!
+
+
+Para modificar o código é preciso alguns programas!
+
+   --- Programas Necessários---
+    -> Visual Studio 2019
+    -> Access
+
+-> Para instalar o Visual Studio basta ir ao website: "https://visualstudio.microsoft.com/downloads/" e fazer o download. A versão community é totalmente grátis.
+-> Para instalar o Access é necessário ter o OFFICE!  E fazer o respetivo download. O Office é uma ferramenta paga.
+
+Após a instalação de ambos já podem modificar o código!
+
+----!AVISO!----
+Vale lembrar que a aplicação não é permitindo a venda e utilização de terceiros. O uso da aplicação ilegalmente não terá como responsáveis a Equipa S.R.B.E e a o seu Suporte!
+
+Este código apenas serve para estudo!
+
+   Cumprimentos 
+  Equipa S.R.B.E
+

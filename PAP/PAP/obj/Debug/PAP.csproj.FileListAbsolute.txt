@@ -1,0 +1,1695 @@
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\RdlCompile.cache
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\RdlCompile.compiled
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\RdlCompile.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\RdlCompile.compiled
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_menulivros.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menulivros.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Downloads\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Desktop\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP 05\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFuncionárioDevolucao.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFuncionárioDevolucao.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\RdlCompile.cache
+C:\Users\LaWer\Desktop\PAP Atua\PAP 06\PAP\PAP\PAP\obj\Debug\RdlCompile.compiled
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFuncionárioDevolucao.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Downloads\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFuncionárioDevolucao.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaComputadorRequisicao.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP 06\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoComputador.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaComputadorRequisicao.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoComputador.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFuncionárioDevolucao.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP QUASE\PAP\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaComputadorRequisicao.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFuncionárioDevolucao.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_DevolucaoLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisaAlunoDevolucao.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisiçãoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\RdlCompile.cache
+C:\Users\LaWer\Desktop\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\RdlCompile.compiled
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.FrmRequisicaoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.FrmRequisicaoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\RdlCompile.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\RdlCompile.compiled
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioRequisicaoLivros.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoComputadores.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioRequisicaoTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoTablet.resources
+C:\Users\LaWer\Desktop\PAP TERMINADAS\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioRequisicaoComputadores.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\BDPAP.mdb
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\EnvDTE.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\stdole.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_ajuda.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuLivro.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menutablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menucomp.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_menufilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaFilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategoriaLivro.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuCategorias.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuEditora.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuAluno.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuFuncionaria.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuProfessores.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_email.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioRequisicaoTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioRequisicaoComputadores.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RequisicaoComputadores.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioRequisicaoLivros.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.FrmRequisicaoLivros.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarAluno.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarFilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarLivros.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarProfessor.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_PesquisarTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioFilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioAluno.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioComputador.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioProfessor.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RelatorioLivro.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoComputador.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoFilme.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoTablet.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoAluno.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoLivros.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_LoginFuncionario.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_NovoRegistoFuncionario.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoLogin.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_AcessorestritoDefinicoes.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_definicoes.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_loadscreen.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_MenuPrincipal.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.Frm_RegistoProfessor.resources
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\LaWer\Desktop\PAP\PAP TERMINADAS\PAP TERMINADA\PAP\PAP\PAP\PAP\obj\Debug\PAP.pdb
