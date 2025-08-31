@@ -20,6 +20,11 @@ ________________________________________________________________________________
 
 **Introdução**:
 O presente projeto corresponde à última fase do Curso Profissional de Técnico de Gestão de Equipamentos Informáticos, constituindo-se como uma Prova de Aptidão Profissional, que tem como principal objetivo abranger todos os conhecimentos adquiridos ao longo dos três anos de formação.
-Para o tema, foi escolhido “Criação de um Sistema de Requisição de Bibliotecas Escolares”. Esta escolha deveu-se a uma troca de ideias entre dois alunos da turma 12oD, Fábio Costa e Luís Freitas, (desenvolvimento da ideia e do plano prático do projeto), enquanto
-observamos o sistema retrógrado e arcaico, atualmente utilizado pela biblioteca. Chegamos à conclusão que seria uma mais valia para a escola abandonar o sistema utilizado em papel e passar a utilizar um sistema mais informatizado e ecológico.
+
+Para o tema, foi escolhido “Criação de um Sistema de Requisição de Bibliotecas Escolares”. Esta escolha deveu-se a uma troca de ideias entre dois alunos da turma 12oD, Fábio Costa e Luís Freitas, (desenvolvimento da ideia e do plano prático do projeto), enquanto observamos o sistema retrógrado e arcaico, atualmente utilizado pela biblioteca. Chegamos à conclusão que seria uma mais valia para a escola abandonar o sistema utilizado em papel e passar a utilizar um sistema mais informatizado e ecológico.
+
 Para dar corpo ao presente trabalho, foi necessário efetuar pesquisa de informação, em diversas fontes, recolha e tratamento de dados, o que possibilitou efetuar a exposição teórica que este projeto engloba.
+
+
+
+PS: Este repositório serve como arquivo da Prova de Aptidão Profissional realizada no dia 1 de julho de 2021.
