@@ -6,9 +6,9 @@
 
 _____________________________________________________________________________________
 
-Professor Orientador: Paulo Martins
+**Ano Letivo: 2020/2021**
 
-_____________________________________________________________________________________
+**Professor Orientador**: Paulo Martins
 
 **Curso**: Curso Profissional Técnico de Gestão de Equipamentos Informáticos
 
