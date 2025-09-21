@@ -2,7 +2,7 @@
 
 |Autor  | Fábio Rafael Gomes Costa | Luis Pedro Pereira Freitas|
 |:----:|:-------:|:-----:|
-|**Contato**| **fabio191costa@gmail.com** | **a23008@alunos.ipca.pt**|
+|**Contato**| **fabio191costa@gmail.com** | **luisfreitas1308@gmail.com**|
 
 _____________________________________________________________________________________
 
